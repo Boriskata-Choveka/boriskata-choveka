@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on PeTTTag, IBSComputers and a secret project 🤫
+- 🌱 I’m currently learning Web Development and Cyber Security
 
 <!--
 **Boriskata-Choveka/boriskata-choveka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
