@@ -1,5 +1,4 @@
 ## Hi there 👋
-- 🔭 I’m currently working on PeTTTag, IBSComputers and a secret project 🤫
 - 🌱 I’m currently learning Web Development and Cyber Security
 
 <!--
